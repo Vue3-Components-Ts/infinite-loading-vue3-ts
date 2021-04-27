@@ -5,12 +5,13 @@
 npm i infinite-loading-vue3-ts
 ```
 
-Then, import and using the component:
-```sh
+Then, import and register the component:
+```Javascript
+// .vue file
 <script>
 import InfiniteLoading from 'infinite-loading-vue3-ts';
 components: {
-    InfiniteLoading,
+    InfiniteLoading
 },
 <script/>
 ```
