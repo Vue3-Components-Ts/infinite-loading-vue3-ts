@@ -1,12 +1,23 @@
 # infinite-loading-vue3-ts
 
-## Installation
+## Install
 
 ```
 npm i infinite-loading-vue3-ts
 ```
 
-## Usage
+
+## API
+
+`slots`
+- spinner: loading here
+- no-more: text no more
+- no-results: text no results
+
+`events`
+- infinite: is call from the component
+
+## Usage & Example
 
 Then, import and using the component in `.vue` file.
 

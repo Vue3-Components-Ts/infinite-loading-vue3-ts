@@ -1,6 +1,6 @@
 {
   "name": "infinite-loading-vue3-ts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/infinite-loading-vue3-ts.ssr.js",
   "browser": "dist/infinite-loading-vue3-ts.esm.js",
