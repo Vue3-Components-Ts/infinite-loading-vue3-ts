@@ -13,9 +13,11 @@ Then, import and register the component:
 ```js
 // .vue file
 <script>
-    import InfiniteLoading from 'infinite-loading-vue3-ts';
+import InfiniteLoading from 'infinite-loading-vue3-ts';
+    ...
     components: {
-    InfiniteLoading
-},
-    <script/>
+        InfiniteLoading
+    },
+    ...
+<script/>
 ```
