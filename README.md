@@ -1,5 +1,7 @@
 # infinite-loading-vue3-ts
+While waiting `new version support vue 3` from: https://www.npmjs.com/package/vue-infinite-loading
 
+I make a new one, is based on `the package above` for vue 3
 ## Install
 
 ```
@@ -75,3 +77,7 @@ export default defineComponent({
 </script>
 ```
 
+## Refs
+
+This package gets ideas from https://www.npmjs.com/package/vue-infinite-loading
+If you want to know in deep let's go and read their great document

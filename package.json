@@ -1,6 +1,6 @@
 {
   "name": "infinite-loading-vue3-ts",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "",
   "main": "dist/infinite-loading-vue3-ts.ssr.js",
   "browser": "dist/infinite-loading-vue3-ts.esm.js",
@@ -12,6 +12,10 @@
     "infinite-loading-vue3-ts.d.ts",
     "src/**/*.vue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vue3-Components-Ts/infinite-loading-vue3-ts"
+  },
   "sideEffects": false,
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.ts",
